@@ -1,0 +1,14 @@
+[
+  {"Ogrenci": "Ahmet","KatSayi": 4,"Hafta": 1,"Puan": 100},
+  {"Ogrenci": "Ahmet","KatSayi": 5,"Hafta": 2,"Puan": 67},
+  {"Ogrenci": "Ahmet","KatSayi": 2,"Hafta": 3,"Puan": 100},
+  {"Ogrenci": "Mehmet","KatSayi": 1,"Hafta": 1,"Puan": 84},
+  {"Ogrenci": "Mehmet","KatSayi": 4,"Hafta": 2,"Puan": 40},
+  {"Ogrenci": "Mehmet","KatSayi": 3,"Hafta": 3,"Puan": 20},
+  {"Ogrenci": "Mert","KatSayi": 1,"Hafta": 1,"Puan": 69},
+  {"Ogrenci": "Mert","KatSayi": 5,"Hafta": 2,"Puan": 57},
+  {"Ogrenci": "Mert","KatSayi": 2,"Hafta": 3 ,"Puan": 20},
+  {"Ogrenci": "Enis","KatSayi": 3,"Hafta": 1,"Puan": 100},
+  {"Ogrenci": "Enis","KatSayi": 1,"Hafta": 2,"Puan": 38},
+  {"Ogrenci": "Enis","KatSayi": 4,"Hafta": 3,"Puan": 21}
+]

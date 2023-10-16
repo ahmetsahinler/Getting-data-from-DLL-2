@@ -1,0 +1,16 @@
+C:\Users\Ahmet\Desktop\Yaptim\bin\Debug\net7.0\Yaptim.exe
+C:\Users\Ahmet\Desktop\Yaptim\bin\Debug\net7.0\Yaptim.deps.json
+C:\Users\Ahmet\Desktop\Yaptim\bin\Debug\net7.0\Yaptim.runtimeconfig.json
+C:\Users\Ahmet\Desktop\Yaptim\bin\Debug\net7.0\Yaptim.dll
+C:\Users\Ahmet\Desktop\Yaptim\bin\Debug\net7.0\Yaptim.pdb
+C:\Users\Ahmet\Desktop\Yaptim\obj\Debug\net7.0\Yaptim.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\Yaptim\obj\Debug\net7.0\Yaptim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\Yaptim\obj\Debug\net7.0\Yaptim.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\Yaptim\obj\Debug\net7.0\Yaptim.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\Yaptim\obj\Debug\net7.0\Yaptim.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\Yaptim\obj\Debug\net7.0\Yaptim.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\Yaptim\obj\Debug\net7.0\Yaptim.dll
+C:\Users\Ahmet\Desktop\Yaptim\obj\Debug\net7.0\refint\Yaptim.dll
+C:\Users\Ahmet\Desktop\Yaptim\obj\Debug\net7.0\Yaptim.pdb
+C:\Users\Ahmet\Desktop\Yaptim\obj\Debug\net7.0\Yaptim.genruntimeconfig.cache
+C:\Users\Ahmet\Desktop\Yaptim\obj\Debug\net7.0\ref\Yaptim.dll
